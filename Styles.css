@@ -1,0 +1,22 @@
+body{
+    background:rgb(148, 4, 52);
+    }
+    h2{
+    background:rgb(196, 195, 191);
+    }
+    
+    .theme{
+    background:rgb(20, 17, 187);
+    }
+    
+    .Test{
+    background:rgb(91, 17, 187);
+    }
+    .mytable {
+        background:rgb(91, 17, 187);
+        margin-top: 100px;
+        border-style: dashed;
+        border-width: 3px;
+        border-color: antiquewhite;
+
+    }
